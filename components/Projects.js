@@ -46,18 +46,18 @@ const projects = [
         ],
         link: 'https://github.com/Danangwepe/Health-Coach-LLM',
     },
-    {
-        num: '04',
-        title: 'Data Analytics Dashboard',
-        description:
-            'Interactive analytics dashboard for exploring complex datasets with real-time filtering, visualization, and insights.',
-        tags: ['Pandas', 'Streamlit', 'Plotly', 'SQL'],
-        images: [
-            'https://picsum.photos/seed/datadash/600/400',
-            'https://picsum.photos/seed/datadash2/1200/600',
-        ],
-        link: '#',
-    },
+    // {
+    //     num: '04',
+    //     title: 'Data Analytics Dashboard',
+    //     description:
+    //         'Interactive analytics dashboard for exploring complex datasets with real-time filtering, visualization, and insights.',
+    //     tags: ['Pandas', 'Streamlit', 'Plotly', 'SQL'],
+    //     images: [
+    //         'https://picsum.photos/seed/datadash/600/400',
+    //         'https://picsum.photos/seed/datadash2/1200/600',
+    //     ],
+    //     link: '#',
+    // },
 ];
 
 export default function Projects() {

@@ -28,7 +28,7 @@ export default function About() {
                             {/* Bio Text */}
                             <div className="space-y-6">
                                 <p className="font-dm text-lg leading-relaxed text-gray-600">
-                                    I'm Danang Wahyu Prasektiyo, a Final Year Computer Engineering student
+                                    {"I'm"} Danang Wahyu Prasektiyo, a Final Year Computer Engineering student
                                     with a strong focus on Artificial Intelligence, Machine Learning, and Data Science.
                                 </p>
                                 <p className="font-dm text-lg leading-relaxed text-gray-600">
