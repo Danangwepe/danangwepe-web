@@ -49,7 +49,7 @@ export default function Hero() {
                 {/* Rotating subtitle */}
                 <div className="font-mono text-lg sm:text-xl text-gray-600 mb-12">
                     <RotatingText
-                        texts={['AI Developer', 'ML Engineer', 'Data Scientist', 'Web Developer']}
+                        texts={['AI Engineer', 'ML Engineer', 'Data Scientist', 'Web Developer']}
                         interval={3000}
                     />
                 </div>

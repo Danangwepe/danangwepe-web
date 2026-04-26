@@ -6,6 +6,11 @@ export const metadata = {
     description: 'Personal portfolio of Danang Wahyu Prasektiyo, a Computer Engineering student specializing in AI, Machine Learning, and Data Science.',
     keywords: ['AI', 'Machine Learning', 'Data Science', 'Portfolio', 'Danang Wahyu Prasektiyo', 'Computer Engineering'],
     authors: [{ name: 'Danang Wahyu Prasektiyo' }],
+    icons: {
+        icon: '/logo_wp.png',
+        shortcut: '/logo_wp.png',
+        apple: '/logo_wp.png',
+    },
     openGraph: {
         title: 'Danang Wahyu Prasektiyo — AI & ML Portfolio',
         description: 'Personal portfolio of Danang Wahyu Prasektiyo, a Computer Engineering student specializing in AI, Machine Learning, and Data Science.',

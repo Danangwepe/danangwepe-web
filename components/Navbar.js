@@ -72,7 +72,7 @@ export default function Navbar() {
                     <div className="hidden md:flex items-center gap-4">
                         <PillNav items={NAV_ITEMS} activeSection={activeSection} />
                         <a
-                            href="/docs/DANANG WAHYU PRASEKTIYO - CV.pdf"
+                            href="/docs/CV_Danang_Wahyu_Prasektiyo_AI_Engineer.pdf"
                             download
                             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-dark text-light text-sm font-dm font-medium hover:bg-gray-800 transition-colors duration-300"
                         >
@@ -128,7 +128,7 @@ export default function Navbar() {
                 ))}
                 {/* Mobile CV Button */}
                 <a
-                    href="/docs/DANANG WAHYU PRASEKTIYO - CV.pdf"
+                    href="/docs/CV_Danang_Wahyu_Prasektiyo_AI_Engineer.pdf"
                     download
                     className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-dark text-light text-lg font-sora font-semibold hover:bg-gray-800 transition-colors"
                     style={{
